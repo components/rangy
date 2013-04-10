@@ -21,7 +21,10 @@
     "extra": {
         "component": {
             "scripts": [
-                "uncompressed/rangy-core.js"
+                "uncompressed/rangy-core.js",
+                "uncompressed/rangy-cssclassapplier.js",
+                "uncompressed/rangy-selectionsaverestore.js",
+                "uncompressed/rangy-serializer.js"
             ],
             "shim": {
                 "exports": "rangy"
