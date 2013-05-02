@@ -5,7 +5,6 @@
   "keywords": [
     "component"
   ],
-  "main": "uncompressed/rangy-core.js",
   "scripts": [
     "uncompressed/rangy-core.js",
     "uncompressed/rangy-cssclassapplier.js",
